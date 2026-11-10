@@ -1,5 +1,7 @@
 # [pg_textsearch](https://github.com/timescale/pg_textsearch) binary compile, Microsoft Windows x64, PostgreSQL
 
+---
+
 <b>***** Unofficial release *****</b>
 
 ---
